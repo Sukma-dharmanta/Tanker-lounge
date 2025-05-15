@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("Tanks") 
-st.image ("views/GettyImages-1066347518.jpg") 
+st.image ("GettyImages-1066347518.jpg", width=200) 
 st.write(
     "Welcome.")
 st.subheader("Tank, 120mm General Dynamics M1A2 Abrams SEP TUSK V1") 
